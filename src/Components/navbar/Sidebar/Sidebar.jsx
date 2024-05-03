@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import './sidebar.scss';
 import ToggleButton from './toggleButton/ToggleButton';
-import Links from './Links/Links';
+import Links from './links/Links';
 
 const Sidebar = () => {
   const [open, setOpen] = useState(false);
