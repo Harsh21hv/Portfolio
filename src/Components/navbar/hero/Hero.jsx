@@ -46,7 +46,7 @@ const Hero = () => {
               </a>
             </motion.button>
             <motion.button variants={textVariants}>
-              <a href='https://harshportfolio.tech/Harsh Vardhan Tripathi.pdf' download>
+              <a href='Resume_Harsh.pdf' download>
                 My Resume
               </a>{' '}
             </motion.button>
