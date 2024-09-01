@@ -46,7 +46,7 @@ const Hero = () => {
               </a>
             </motion.button>
             <motion.button variants={textVariants}>
-              <a href='Resume_Harsh.pdf' download>
+              <a href='https://drive.google.com/file/d/1p9pu3Bfbj3Hsuz_KbXEy8Q6uq6DqQX_q/view?usp=drivesdk' >
                 My Resume
               </a>{' '}
             </motion.button>
